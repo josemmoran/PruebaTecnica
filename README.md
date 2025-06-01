@@ -1,7 +1,9 @@
 # PruebaTecnica 
 
--[Descripcion](Descripcion)
--[Instalacion](Instalacion)
+# Tabla de contenido
+
+- [Descripcion](Descripcion)
+- [Instalacion](Instalacion)
 
 # Descripcion
 ***
@@ -29,9 +31,9 @@ Para poder realizar la ejecucion del proyecto en **local** se tiene que tener lo
 
 Posteriormente antes de ejecutar, crear la base de datos y luego se tiene que colocar las variables de ejecucion siguientes
 
-${hostDb}
-${userDb}
-${passwordDb}
+- ${hostDb}
+- ${userDb}
+- ${passwordDb}
 Con todo lo anteriormente dicho configurado se puede realizar la ejecucion local
 
 Para poder realizar la ejecucion de proyecto en **Docker** se tiene que tener docker compose. Si lo tiene instalado 
